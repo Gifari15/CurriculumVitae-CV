@@ -22,6 +22,7 @@
     </head>
     <body>
         <?php
+            // TESTING
             // VARAIBEL NAMA GAMBAR
             $imageName = "bandung";
         ?>
